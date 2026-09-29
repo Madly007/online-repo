@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "github": {
+      "source": "steipete/clawdis",
+      "sourceType": "github",
+      "skillPath": "skills/github/SKILL.md",
+      "computedHash": "32eccba2a634c485dc35d64c51e9ffe8724541670815f7c877435b198c364f05"
+    }
+  }
+}
