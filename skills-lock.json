@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "remotion-render": {
+      "source": "inference-sh/skills",
+      "sourceType": "github",
+      "skillPath": "tools/video/remotion-render/SKILL.md",
+      "computedHash": "5ad33a6307b48a8e756be722ea26e39467cd1713f87fc5a8eff5480ac873eeaf"
+    }
+  }
+}
