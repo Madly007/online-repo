@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "ai-image-generation": {
+      "source": "inference-sh/skills",
+      "sourceType": "github",
+      "skillPath": "tools/image/ai-image-generation/SKILL.md",
+      "computedHash": "094a658fbbfce7701ad8dfcf295bf66a72c564fd793cdebc0e3bbdb1c04b2358"
+    },
     "canvas-design": {
       "source": "anthropics/skills",
       "sourceType": "github",
