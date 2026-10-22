@@ -1,0 +1,173 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://blake-telecom.co.uk/business-phone-systems-for-financial-services/#service",
+      "name": "Business Phone Systems for Financial Services",
+      "alternateName": [
+        "Phone systems for financial services",
+        "FCA call recording",
+        "MiFID II call recording",
+        "Call recording for financial advisers"
+      ],
+      "serviceType": "Cloud Business Phone System",
+      "category": "Business Telecommunications",
+      "description": "Cloud business phone systems for financial advisers, wealth managers, mortgage and insurance brokers, lenders and fintech firms, with call recording to support FCA duties, controlled access to recordings, CRM integration, Microsoft Teams calling and adviser mobile apps.",
+      "url": "https://blake-telecom.co.uk/business-phone-systems-for-financial-services/",
+      "provider": {
+        "@id": "https://blake-telecom.co.uk/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "United Kingdom"
+      },
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Financial advisers, brokers, lenders and fintech firms"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://blake-telecom.co.uk/contact-us/",
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+441325647000",
+          "contactType": "sales"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://blake-telecom.co.uk/voip-prices/",
+        "priceCurrency": "GBP",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "8.99",
+          "priceCurrency": "GBP",
+          "unitText": "per user per month"
+        },
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@id": "https://blake-telecom.co.uk/#organization"
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://blake-telecom.co.uk/business-phone-systems-for-financial-services/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do financial advisers have to record phone calls?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on your permissions. Firms carrying out the investment activities covered by COBS 11.8, such as receiving and passing on client orders, must record the relevant calls. Plenty of other advisers record anyway, because a recording settles disputes about what was said and supports complaint handling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long must FCA call recordings be kept?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Recordings covered by COBS 11.8 are normally kept for at least five years, and for up to seven where the FCA asks. Our cold storage can hold recordings for up to 10 years, so you can match the period your compliance policy sets."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does MiFID II mean for call recording?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MiFID II introduced the recording duty that the FCA applies through COBS 11.8. It reaches conversations intended to lead to a transaction, even when no transaction follows, and that includes calls taken on a mobile used for that work."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is VoIP call recording FCA compliant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It can be, but the answer depends on the provider and the setup. Ask for written confirmation that recordings are complete, stored securely, searchable and kept for the period you need. Our recording service is designed around those points, and we talk them through with your compliance lead before anything goes live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do mortgage brokers need to record calls?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not always. Your permissions decide, and your compliance officer can confirm the position. Many mortgage, protection and insurance firms record voluntarily, because a clear record helps evidence suitable advice and resolve complaints fairly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can calls on advisers’ mobiles be recorded?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Calls made and received through our mobile app on the business number can be recorded in the same way as desk phone calls, so advisers working away from the office stay covered."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who can listen to our call recordings?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You decide. Access can be set so that compliance staff hear everything, team leaders hear their own team and advisers hear only their own calls."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How quickly can we find a recording for a complaint or an FCA request?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Recordings can be searched by date and time, extension and number, so the right call can be found in moments rather than hours. Your compliance team can then play or export it according to the permissions you have set."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What storage comes with call recording?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Each recording sits in warm storage for 30 days as standard. You can extend that to 180 days, and cold storage packages run for up to 10 years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will it link to our CRM or back office system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Integration is available with many widely used CRM platforms, bringing up client details as calls arrive. Tell us which system you use and we will check the options with you before you commit to anything."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will clients still reach us on our current numbers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In most cases, yes. Existing business phone numbers can usually be transferred, and we plan the move so that recording carries on without a gap."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does switching take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the number of offices, users and numbers involved. We agree a timetable with you first, move numbers at quiet times and train your advisers before the first live call."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can clients reach us during a broadband outage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Calls can divert to advisers’ mobiles or to another office agreed in advance. Calls made through the app are still recorded, so client service carries on."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What do business phone systems for financial services cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Plans start from £8.99 per user per month, and you pay for recording only on the people who need it. The final figure depends on user numbers, how long recordings are kept and the connection at each office. You can compare options on our VoIP pricing page or ask for a quote for your firm."
+          }
+        }
+      ]
+    }
+  ]
+}
