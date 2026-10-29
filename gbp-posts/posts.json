@@ -55,5 +55,12 @@
   "region": "Microsoft Teams calling",
   "text": "Does your team already live in Microsoft Teams? You can take phone calls there too. Blake Telecom connects your business number to Teams, so staff use one app for chat, meetings and calls while customers keep ringing the number they know. Get in touch to see how it would fit the way you work.",
   "url": "https://blake-telecom.co.uk/ucaas/"
+ },
+ {
+  "n": 11,
+  "region": "Automatic call distribution",
+  "text": "When a call comes in, who should answer it? With automatic call distribution, you decide. Instead of every phone ringing at once, callers join a queue and are passed on by rules you choose: the agent who has been free longest, the colleague with the right skills, or an important customer moved to the front of the line. The rules can change with the time of day. Read our guide to ACD, or call us on 01325 647000.",
+  "url": "https://blake-telecom.co.uk/automatic-call-distribution/",
+  "status": "approved by Peter, scheduled 8 Nov 09:00"
  }
 ]
