@@ -35,21 +35,25 @@
  {
   "n": 7,
   "region": "Midlands",
-  "text": "Blake Telecom has been supplying business phone systems since 2004. We are a small, friendly UK team, so when you call you speak to someone who knows your account and can answer your questions. We look after you from the first quote through to going live and beyond. If you would like a chat about your phones or your connection, we would be glad to hear from you."
+  "text": "Blake Telecom has been supplying business phone systems since 2004. We are a small, friendly UK team, so when you call you speak to someone who knows your account and can answer your questions. We look after you from the first quote through to going live and beyond. If you would like a chat about your phones or your connection, we would be glad to hear from you.",
+  "status": "published 29 Oct (27 Oct attempt failed on a tool fault)"
  },
  {
   "n": 8,
-  "region": "Yorkshire",
-  "text": "A busy phone line should not feel like a queue to nowhere. Our contact centre tools let you set up call queues, send callers to the right team and see how many calls are coming in. Blake Telecom sets the system up and tests it before it reaches you, so your team can start taking calls quickly. Ask us for a friendly demonstration."
+  "region": "Contact centres",
+  "text": "A busy phone line should not feel like a queue to nowhere. CCaaS is a cloud contact centre service that brings call queues, routing, recording and live reports into one place, with agents working from the office, from home or both. Blake Telecom sets it up and tests it before it reaches you. Read our CCaaS guide, or call us on 01325 647000 to talk it through.",
+  "url": "https://blake-telecom.co.uk/ccaas/"
  },
  {
   "n": 9,
-  "region": "South West",
-  "text": "Your team is out and about, so their phones should work as hard as they do. Blake Telecom supplies business mobiles and SIMs that we look after alongside your office phone system, so you have one supplier to call if anything needs attention. Talk to us about what your team needs on the road."
+  "region": "Business mobiles",
+  "text": "Your team is out and about, so their phones should work as hard as they do. Blake Telecom supplies business mobiles and SIMs that we look after alongside your office phone system, so you have one supplier to call if anything needs attention. Talk to us about what your team needs on the road.",
+  "url": "https://blake-telecom.co.uk/mobile-deals/"
  },
  {
   "n": 10,
-  "region": "North East",
-  "text": "Does your team already live in Microsoft Teams? You can take phone calls there too. Blake Telecom connects your business number to Teams, so staff use one app for chat, meetings and calls while customers keep ringing the number they know. Get in touch to see how it would fit the way you work."
+  "region": "Microsoft Teams calling",
+  "text": "Does your team already live in Microsoft Teams? You can take phone calls there too. Blake Telecom connects your business number to Teams, so staff use one app for chat, meetings and calls while customers keep ringing the number they know. Get in touch to see how it would fit the way you work.",
+  "url": "https://blake-telecom.co.uk/ucaas/"
  }
 ]
