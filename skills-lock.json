@@ -1,59 +1,73 @@
 {
-  "version": 1,
+  "version": 2,
   "skills": {
     "ai-image-generation": {
       "source": "inference-sh/skills",
       "sourceType": "github",
       "skillPath": "tools/image/ai-image-generation/SKILL.md",
-      "computedHash": "094a658fbbfce7701ad8dfcf295bf66a72c564fd793cdebc0e3bbdb1c04b2358"
+      "computedHash": ""
     },
     "canvas-design": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/canvas-design/SKILL.md",
-      "computedHash": "3fa7ea60170023ad8268bf9fd734ea75dd404279a2ef8ddf5abaa1102ad8e5f4"
+      "computedHash": ""
     },
     "copywriting": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
       "skillPath": "skills/copywriting/SKILL.md",
-      "computedHash": "779f05c8be67da475e6a7af78de3e0400b0038e371ce898dd6ff9d3331aab7db"
+      "computedHash": ""
     },
     "design-taste-frontend": {
       "source": "leonxlnx/taste-skill",
       "sourceType": "github",
       "skillPath": "skills/taste-skill/SKILL.md",
-      "computedHash": "6d838b246d0e35d0b53f4f23f98ba7a1dd561937e64f7d0c7553b0928e376c3e"
+      "computedHash": ""
     },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
-      "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+      "computedHash": ""
     },
     "frontend-design": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/frontend-design/SKILL.md",
-      "computedHash": "89496d5dd00f4810205f351759594fc2742bf8eea85a2f2b2d1de59f4bd91576"
+      "computedHash": ""
     },
     "redesign-existing-projects": {
       "source": "leonxlnx/taste-skill",
       "sourceType": "github",
       "skillPath": "skills/redesign-skill/SKILL.md",
-      "computedHash": "b405eee0e0e80fc243f731d9aa368bca307e356db7e6157d27101d369dac6726"
+      "computedHash": ""
     },
     "remotion-render": {
       "source": "inference-sh/skills",
       "sourceType": "github",
       "skillPath": "tools/video/remotion-render/SKILL.md",
-      "computedHash": "5ad33a6307b48a8e756be722ea26e39467cd1713f87fc5a8eff5480ac873eeaf"
+      "computedHash": ""
+    },
+    "seo-blog-writer": {
+      "source": "automatelab-tech/publishing-skills",
+      "commit": "b6010ecaf92e95d17955496fe637bf0096424176",
+      "sourceType": "github",
+      "skillPath": "skills/seo-blog-writer/SKILL.md",
+      "computedHash": "0eb572edf129702043562a35f9f2e735d0a94361809441240327f7b7a652462a"
+    },
+    "social-media-manager": {
+      "source": "alirezarezvani/claude-skills",
+      "commit": "ea7b5ab8da93bbba8880152d9ccb8c9979f12252",
+      "sourceType": "github",
+      "skillPath": "marketing-skill/skills/social-media-manager/SKILL.md",
+      "computedHash": "5fc71eae984a4edc9ab28982a9802be62a1d199c9a0e6f244c75c64797deeb90"
     },
     "stop-slop": {
       "source": "hardikpandya/stop-slop",
       "sourceType": "github",
       "skillPath": "SKILL.md",
-      "computedHash": "617bf97d33162a6bd0da4f40a97aac589de58e5a6c9cf011ed6108992210e7cb"
+      "computedHash": ""
     }
   }
 }
